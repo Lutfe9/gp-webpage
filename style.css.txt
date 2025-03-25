@@ -1,0 +1,97 @@
+style.css
+
+/* General Styles */
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background: #13588a;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    color: white;
+}
+
+p {
+    text-align: left;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+/* Header */
+header {
+    background-color: #13588a;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-family:cursive7;
+    font-size: 1.5rem;
+}
+
+p1 {
+    background-color: #13588a;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-family:cursive7;
+    font-size: 1.5rem;
+}
+
+.first-image {
+    display:block;
+    max-width: 25%;
+    height: 30%;
+    margin: 25px;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+}
+
+.second-image {
+    display: block;
+    max-width: 25%;
+    height: 30%;
+    margin: 25px;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+}
+
+.third-image {
+    display: block;
+    max-width: 25%;
+    height: 30%;
+    margin: 25px;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+}
+
+.fourth-image {
+    display: block;
+    max-width: 25%;
+    height: 30%;
+    margin: 25px;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+}
+
+/* Sections */
+section {
+    padding: 0;
+    margin: 0;
+    background-color: #0e4b77;
+    border-radius: 10px;
+    text-align: left;
+}
+
+section h2 {
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #115e96;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
